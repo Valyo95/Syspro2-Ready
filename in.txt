@@ -1,0 +1,24 @@
+submit ls
+submit sleep 200
+submit ls
+submit sleep 200
+submit ls
+submit sleep 200
+submit ls
+submit sleep 200
+submit ls
+submit ls
+submit sleep 200
+submit sleep 200
+status-all
+status 1
+show-active
+show-finished
+show-pools
+suspend 0
+suspend 3
+status-all
+resume 3
+status-all
+shutdown
+
